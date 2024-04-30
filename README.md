@@ -2,6 +2,7 @@ Tic-Tac-Toe Game
 ----------------
 This is a simple implementation of the classic Tic-Tac-Toe game using Java 
 Swing for the graphical user interface.
+
 Introduction
 ----------------
 Tic-Tac-Toe is a popular game played between two players on a 3x3 grid.
@@ -17,6 +18,7 @@ Graphical user interface built with Java Swing.
 Simple and intuitive gameplay.
 Tracks the winner or declares a tie automatically.
 Reset button to start a new game.
+
 How to Play
 -----------
 Download or clone the repository to your local machine.
